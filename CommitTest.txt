@@ -1,3 +1,6 @@
 test content for git tutorial
 
 Create a new commit with a message describing what work was done in the commit
+
+
+My new file
